@@ -42,7 +42,7 @@ A comprehensive Library Management System developed using Python (PyQt5), MySQL,
 
 4. **Run the Application**:
    ```sh
-   python main.py
+   python app.py
    ```
 
 ## Usage
@@ -53,7 +53,7 @@ A comprehensive Library Management System developed using Python (PyQt5), MySQL,
 
 ## Project Structure
 
-- `main.py`: Main entry point for the application.
+- `app.py`: Main entry point for the application.
 - `new_library.ui`: UI file created using Qt Designer.
 - `login.ui`: UI file for the login screen.
 - `themes/`: Directory containing the CSS theme files.
