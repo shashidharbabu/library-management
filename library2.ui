@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>1158</width>
-    <height>584</height>
+    <height>694</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -41,7 +41,7 @@
     <property name="geometry">
      <rect>
       <x>40</x>
-      <y>120</y>
+      <y>100</y>
       <width>71</width>
       <height>61</height>
      </rect>
@@ -64,7 +64,7 @@
     <property name="geometry">
      <rect>
       <x>40</x>
-      <y>270</y>
+      <y>250</y>
       <width>71</width>
       <height>71</height>
      </rect>
@@ -87,7 +87,7 @@
     <property name="geometry">
      <rect>
       <x>40</x>
-      <y>350</y>
+      <y>330</y>
       <width>71</width>
       <height>71</height>
      </rect>
@@ -110,7 +110,7 @@
     <property name="geometry">
      <rect>
       <x>40</x>
-      <y>430</y>
+      <y>410</y>
       <width>71</width>
       <height>71</height>
      </rect>
@@ -1910,7 +1910,7 @@ color: rgb(255, 255, 255);</string>
     <property name="geometry">
      <rect>
       <x>40</x>
-      <y>190</y>
+      <y>170</y>
       <width>71</width>
       <height>71</height>
      </rect>
@@ -1929,6 +1929,29 @@ color: rgb(255, 255, 255);</string>
      </size>
     </property>
    </widget>
+   <widget class="QPushButton" name="pushButton_27">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>480</y>
+      <width>71</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="icon">
+     <iconset resource="icons.qrc">
+      <normaloff>:/icons/themes.png</normaloff>:/icons/themes.png</iconset>
+    </property>
+    <property name="iconSize">
+     <size>
+      <width>40</width>
+      <height>40</height>
+     </size>
+    </property>
+   </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
@@ -1936,7 +1959,7 @@ color: rgb(255, 255, 255);</string>
      <x>0</x>
      <y>0</y>
      <width>1158</width>
-     <height>22</height>
+     <height>24</height>
     </rect>
    </property>
   </widget>
